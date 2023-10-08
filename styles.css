@@ -1,0 +1,274 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #edf0eb;
+    font-family: 'Poppins', sans-serif;
+}
+
+.signin{
+    border: 1% solid #18204a;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 28px;
+    width: 120px;
+    height: 40px;
+    background-color: #edf0eb;
+    border-radius:15px;
+    margin-right: 10px;
+}
+
+.signup{
+    border: 1px solid #18204a;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 28px;
+    width: 100px;
+    height: 40px;
+    background-color: #18204a;
+    color:#edf0eb;
+    border-radius:15px;
+}
+.logo{
+    font-size: 40px;
+    color: #18204a;
+    padding: 5%;
+    line-height: 52px;
+    float: left;
+    font-weight: 900;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn{
+    margin-top: 6%;
+    margin-right: 6%;
+    float: right;
+    justify-content: space-between;
+    
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 10.5%;
+}
+
+.sushi{
+    width: 150px;
+    float: left;
+    margin-right: 2%;
+    margin-bottom: 12%;
+}
+.quick{
+    font-weight: 600;
+    font-size: 60px;
+    color: #18204a;
+    margin-bottom: 10%;
+    margin-right: 10%;
+}
+
+.pizza{
+    width: 150px;
+    float: right;
+    margin-top: -15%;
+}
+
+.button{
+    border: 1px solid #18204a;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 28px;
+    width: 100px;
+    height: 40px;
+    background-color: #18204a;
+    color:#edf0eb;
+    border-radius:15px;
+}
+.delivery{
+    padding:1%;
+    width:40%;
+    border: none;
+    border-radius: 10px;
+    height: 20px;
+}
+
+.i1{
+    margin-left: -5%;
+    margin-right: 5%;
+}
+
+hr{
+    border: 1px solid #18204a;
+    width: 80%;
+    margin-bottom: 2%;
+    margin-left: 10%;
+}
+.work{
+    color: #18204a;
+    font-size: 24px;
+    margin-left: 10%;
+    
+}
+.vertical{
+    border-left: 3px solid #18204a;
+    height: 500px;
+    position:absolute;
+    left: 35%;
+    margin-top: -2%;
+}
+
+.vertical1{
+    border-left: 3px solid #18204a;
+    height: 500px;
+    position:absolute;
+    margin-top: -2%;
+    left: 65%;
+}
+.images{
+    height: 300px;
+    width: 250px;
+    padding: 2%;
+}
+.images1{
+    height: 300px;
+    width: 250px;
+    padding: 2%;
+}
+.images2{
+    height: 300px;
+    width: 250px;
+    padding: 2%;
+}
+
+.grid{
+    display: flex;
+    flex-basis: 200px;
+    
+}
+
+.event1{
+    padding-left: 10%;
+    
+}
+
+.event2{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.event3{
+    padding-right: 10%;
+}
+
+.text1 {
+    padding: 2%;
+    padding-bottom: 11%;
+}
+.text1 h1{
+    font-weight: 600;
+}
+
+.text1  p{
+    font-weight: 200;
+}
+.text2 h1{
+    font-weight: 600;
+}
+
+.text2  p{
+    font-weight: 200;
+}
+.text3 h1{
+    font-weight: 600;
+}
+
+.text3  p{
+    font-weight: 200;
+}
+
+.as{
+    display: flex;
+}
+
+.as-img{
+    width: 48%;
+    padding-left: 10%;
+    padding-right: 10%;
+    height: 30%;
+}
+
+.as-text{
+    padding-right: 10%;
+}
+.as-text p{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    text-align: justify;
+}
+
+.order{
+    padding: 2%;
+    padding-left: 10%;
+}
+
+.para{
+    padding-left: 12%;
+    float: left;
+    text-align: left;
+
+}
+.order-container{
+    display: flex;
+}
+
+.pizza-sushi{
+    width: 40%;
+    padding-right: 10%;
+}
+
+.order-easily{
+    padding-left: 10%;
+}
+
+footer{
+    display:flex; 
+    background-color: #c1cebd;
+    margin-top: 15%;
+    
+}
+ul{
+    margin-right: 5%;
+    margin-top: 12%;
+}
+ul li{
+    text-decoration: none;
+    list-style-type: none;
+    
+}
+
+.logo{
+    float: left;
+}
+
+.main-conatiner{
+    padding-bottom: 20%;
+    margin-bottom: 10%;
+}
+
+.footer-links{
+    display: flex;
+    justify-content: right;
+    margin-left: 20%;
+    font-size: 14px;
+    line-height: 30px;
+    color:#18204a;
+    font-weight:300;
+}
+
